@@ -33,7 +33,7 @@ body {
 }
 
 ol, ul, li {
-	list-style-type: decimal;
+	list-style-type: disc;
 	padding-left:1em;
 }
 
